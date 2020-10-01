@@ -1,0 +1,15 @@
+
+
+$yellow: #F8CE4C;
+$darkYellow: #ddb22c;
+$borderBottom: #C7841F;
+$borderGray: #E7E8EA;
+$black: #252525;
+
+
+@mixin bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
